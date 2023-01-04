@@ -1,0 +1,68 @@
+.header {
+}
+
+.title {
+    font-family: 'Raleway';
+    font-size: 36px;
+    text-align: center;
+    font-weight: 400;
+    text-transform: uppercase;
+    margin: 80px auto 34px;
+    color: #212121;
+}
+
+.description p {
+     font-family: 'Open Sans';
+     font-size: 14px; 
+     text-align: center;
+     font-weight: 400;
+     color: #86878B;
+     margin: 0 auto 68px;
+}
+.headeer-wrap {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 123px;
+    flex-wrap: wrap;
+}
+.header-card {
+    /* border: 1px #E72424 solid; */
+    width: 350px;
+    margin: 40px;
+    /* display: flex;
+    justify-content: space-between; */
+
+}
+.header-card--content {
+}
+.header-card--img img {
+    /* width: 100%; */
+    /* border-radius: 50%;
+    border: 1px #E72424 solid; */
+}
+.header-card--img {
+    width: 100px;
+    height: 100px;
+    border: 1px #E72424 solid;
+    margin: 0 auto 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+}
+.card-taitle {
+    font-family: 'Open Sans';
+    font-size: 20px;
+    font-weight: 700;
+    color: #333333;
+    text-align: center; 
+    margin-bottom: 16px;
+}
+.card-taitle--content p {
+    text-align: center;
+    font-family: 'Open Sans';
+    font-size: 14px;
+    font-weight: 400;
+    color: #000000;
+
+}

@@ -1,0 +1,118 @@
+.header {
+    padding: 18px 0;
+    background-color: #000000;
+    position: sticky;
+    top: 0;
+    z-index: 101;
+}
+
+.container {
+}
+
+.header-wrap {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 -15px;
+}
+.header-logo {
+    font-family: 'Raleway', sans-serif;
+    text-transform: uppercase;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 35px;
+    margin: 0 15px;
+    /* margin: 110px; */
+    /* display: block; */
+    /* text-align: right;
+    text-align: left; */
+}
+.logo-ax {
+    color: #fff;
+    /* text-align: left; */
+}
+.logo-ax span {
+    color: #EC7979;
+}
+
+/* .logo-it {
+    color: red;
+} */
+.header-navigation {
+    display: flex;
+}
+.navigation-menu {
+    display: flex;
+    flex-wrap: nowrap;
+    width: 489px;
+    justify-content: space-between;
+    margin: 0 15px;
+    /* padding-left: 300px; */
+    /* font-family: 'Open Sans';
+    font-weight: 600;
+    font-size: 15px;
+    line-height: 20px;
+    text-transform: capitalize;
+    color: rgba(255, 255, 255, 0.7); */
+
+    /* margin-left: 5px; */
+}
+.navigation-menu li {
+}
+.menu-page {
+}
+
+.menu-page a {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600;
+    font-size: 15px;
+    line-height: 20px;
+    text-transform: capitalize;
+    color: rgba(255, 255, 255, 0.7);
+}
+.menu-page a:hover {
+    border-bottom: 1px solid #EC7979;
+}
+.menu-page a:active {
+    border-bottom: 2px solid rgba(255, 255, 255, 0.7)  ;
+}
+
+.burger {
+    display: none;
+    margin: 0 15px;
+}
+.burger:hover {
+/* background: rgba(255, 255, 255, 0.7); */
+}
+.burger-line li {
+    margin-bottom: 5px;
+}
+.burger-line li:hover {
+    background: #EC7979;
+}
+/* .burger::after {
+    content: "";
+    width: 15px;
+    height: 2px;
+    background: red;
+    display: block;
+    margin-bottom: 5px;
+} */
+.line-one {
+    width: 20px;
+    height: 2px;
+    background: rgba(255, 255, 255, 0.7);
+    /* margin-bottom: 5px; */
+}
+.line-two {
+    width: 20px;
+    height: 2px;
+    background: rgba(255, 255, 255, 0.7);
+    /* margin-bottom: 5px; */
+}
+.line-three {
+    width: 20px;
+    height: 2px;
+    background: rgba(255, 255, 255, 0.7);
+    /* margin-bottom: 5px; */
+}

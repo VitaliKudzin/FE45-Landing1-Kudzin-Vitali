@@ -1,0 +1,75 @@
+.footer {
+    padding: 30px 0 15px;
+    background: #000000;
+    
+}
+.container {
+}
+.footer-wrap {
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    margin: auto;
+    width: 317px;
+}
+.footer-icons {
+    
+}
+.icons-brend {
+    width: 317px;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 18px;
+    color: rgba(255, 255, 255, 0.5);
+}
+.icons-brend a {
+    color: rgba(255, 255, 255, 0.5);
+    font-size: 30px;
+    
+}
+.brend {
+    
+}
+.fa-brands {
+   
+}
+.fa-facebook-f {
+   
+}
+.fa-facebook-f:hover {
+    
+}
+.fa-twitter {
+    
+}
+.fa-google-plus-g {
+    
+}
+.fa-pinterest {
+    
+}
+.fa-square-instagram {
+    
+}
+.fa-stumbleupon {
+    
+}
+.fa-solid ::after {
+    
+}
+
+.fa-rss {
+    
+}
+
+.footer-2015 {
+    width: 130px;
+    font-family: 'Open Sans';
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 16px;
+    text-align: center;
+    margin: auto;
+    color: rgba(255, 255, 255, 0.5);
+}
+

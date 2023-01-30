@@ -1,0 +1,34 @@
+@media (max-width: 1000px) {
+.tabssoft-picture {
+    display: none;
+}
+.modern-card {
+    margin-top: 50px;
+    
+}
+}
+
+@media (max-width: 832px) {
+.tabssoft-contents {
+    margin-top: 50px;
+}
+}
+
+@media (max-width: 776px) {
+    .section-wrap,
+    .main-wrap,
+    .section-wrap-card--comment,
+    .form-contact {
+        justify-content: center;
+    }
+    
+}
+
+@media (max-width: 630px) {
+    .header-navigation {
+        display: none;
+    }
+    .burger {
+        display: block;
+    }
+}

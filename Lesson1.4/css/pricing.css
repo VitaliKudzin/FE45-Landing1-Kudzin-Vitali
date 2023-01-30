@@ -1,0 +1,90 @@
+.pricing {
+    background: #F5F5F5;
+    padding: 80px 0;
+}
+
+/* .main-title {
+    text-align: center;
+    
+    margin: 0 auto 34px;
+    font-family: 'Raleway';
+    font-size: 36px;
+    font-weight: 400;
+    text-transform: uppercase;
+    color: #212121;
+} */
+
+.main-description {
+    margin: 0 auto 62px;
+}
+.main-description p {
+    font-family: 'Open Sans';
+     font-size: 14px; 
+     text-align: center;
+     font-weight: 400;
+     color: #86878B;
+     /* margin: 0 auto 62px; */
+}
+.main-wrap {
+    text-align: center;
+    /* padding: 0px 113px 58px 113px; */
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin: 0 -15px;
+   
+    
+    
+}
+.main-price {
+    width: 340px;
+    margin: 0 15px;
+}
+
+.price-tarif {
+    line-height: 50px;
+    margin-bottom: 2px;
+    font-family: 'Open Sans';
+    font-weight: 700;
+    font-size: 20px;
+    color: #FFFFFF;
+    background: #333333;
+    
+}
+.price-cost {
+    line-height: 100px;
+    margin-bottom: 2px;
+    font-family: 'Raleway';
+    font-size: 35px;
+    font-weight: 700;
+    color: #FFFFFF;
+    background: #333333;
+
+}
+.price-info {
+    line-height: 50px;
+    margin-bottom: 2px;
+    font-family: 'Open Sans';
+    font-size: 14px;
+    font-weight: 600;
+    color: rgba(255, 255, 255, 0.5);
+    background: #333333;
+}
+.price-space {
+    /* width: 340px; */
+    /* align-items: center;
+    justify-content: center; */
+}
+
+.price-space {
+    /* border: 1px solid green; */
+    /* height: 40px; */
+    line-height: 40px;
+    margin-bottom: 2px;
+/* padding: 10px; */
+    font-family: 'Open Sans';
+    font-size: 14px;
+    font-weight: 400;
+    color: #86878B;
+    background: #FFFFFF;
+}
